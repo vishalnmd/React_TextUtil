@@ -10,7 +10,7 @@ function About(props){
                 </h2>
                 <div id="collapseOne" className="accordion-collapse collapse show" data-bs-parent="#accordionExample">
                 <div className="accordion-body">
-                    <strong>This is the first item's accordion body.</strong> It is shown by default, until the collapse plugin adds the appropriate classNamees that we use to style each element. These classNamees control the overall appearance, as well as the showing and hiding via CSS transitions. You can modify any of this with custom CSS or overriding our default variables. It's also worth noting that just about any HTML can go within the <code>.accordion-body</code>, though the transition does limit overflow.
+                    <strong>I site owner is a backend java developer</strong> he also has prior experience in wpf dot, salesforce and 1 year experience in java.
                 </div>
                 </div>
             </div>
@@ -22,7 +22,7 @@ function About(props){
                 </h2>
                 <div id="collapseTwo" className="accordion-collapse collapse" data-bs-parent="#accordionExample">
                 <div className="accordion-body">
-                    <strong>This is the second item's accordion body.</strong> It is hidden by default, until the collapse plugin adds the appropriate classNamees that we use to style each element. These classNamees control the overall appearance, as well as the showing and hiding via CSS transitions. You can modify any of this with custom CSS or overriding our default variables. It's also worth noting that just about any HTML can go within the <code>.accordion-body</code>, though the transition does limit overflow.
+                    <strong>Currently the we are trying to raise our knowledge base.</strong> Hence we are trying to learn react framework which enables us to create single page application which are interactive and looks beautiful.
                 </div>
                 </div>
             </div>
@@ -34,7 +34,7 @@ function About(props){
                 </h2>
                 <div id="collapseThree" className="accordion-collapse collapse" data-bs-parent="#accordionExample">
                 <div className="accordion-body">
-                    <strong>This is the third item's accordion body.</strong> It is hidden by default, until the collapse plugin adds the appropriate classNamees that we use to style each element. These classNamees control the overall appearance, as well as the showing and hiding via CSS transitions. You can modify any of this with custom CSS or overriding our default variables. It's also worth noting that just about any HTML can go within the <code>.accordion-body</code>, though the transition does limit overflow.
+                    <strong>We are open to collab and share what ever experience we persist.</strong> You can reach us through linkedin instagram telegram or any social media plateform. Collaboratioin and sharing knowledge is a wise and good way for growing together.
                 </div>
                 </div>
             </div>
