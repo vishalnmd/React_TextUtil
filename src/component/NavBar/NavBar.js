@@ -7,7 +7,7 @@ function Navbar(props) {
     <>
       <nav className="navbar navbar-expand-lg bg-body-tertiary" data-bs-theme={props.mode}>
         <div className="container-fluid">
-          <Link className="navbar-brand" to="/">
+          <Link className="navbar-brand" to="/React_TextUtil">
             {props.title}
           </Link>
           <button
@@ -24,7 +24,7 @@ function Navbar(props) {
           <div className="collapse navbar-collapse" id="navbarSupportedContent">
             <ul className="navbar-nav me-auto mb-2 mb-lg-0">
               <li className="nav-item">
-                <Link className="nav-link active" aria-current="page" to="/">
+                <Link className="nav-link active" aria-current="page" to="/React_TextUtil">
                   {props.home}
                 </Link>
               </li>
