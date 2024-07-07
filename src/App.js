@@ -42,7 +42,7 @@ function App() {
                 <Alert alert = {alert} />
 
             <Routes>
-                    <Route path='/' element={
+                    <Route path='/React_TextUtil' element={
                       <div className='container'>
                         <Txtbar mode={mode} showAlert={showAlert} alert={setAlert}/>
                       </div>
