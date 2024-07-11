@@ -71,7 +71,7 @@ function Txtbar(props){
 
                 <div className="mb-1 my-2">
                     <h2 style={color}>Text Summery</h2>
-                    <p>{word()} words and {txt.split('').filter((element)=>{return element!==' '}).length} characters.</p>
+                    <p>{txt.split(/\s+/).filter((element)=>{return element.length!==0}).length} words and {txt.split(' ').filter((element)=>{return element.length!==0}).length} characters.</p>
                 </div>
 
                 <div className="mb-1 my-4">
